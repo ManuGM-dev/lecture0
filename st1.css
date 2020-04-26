@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://i.ytimg.com/vi/A4oRUJL08xg/maxresdefault.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+.Register{
+background-color: rgb(85, 213, 223);
+line-height: 40px;
+width: 700px;
+height: 500px;
+color: white;
+font-variant: normal;
+font-size: 18px;
+font-family: sans-serif;
+margin-left: 70px;
+border-radius: 5px;
+
+}
